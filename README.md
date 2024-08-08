@@ -1,2 +1,2 @@
 e=int(input("en q numero piensas"))
-print(e)
+print("estas pensando en el numero:\n",e)
